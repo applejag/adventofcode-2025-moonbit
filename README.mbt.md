@@ -12,7 +12,7 @@ trying to use MoonBit (<https://www.moonbitlang.com/>)
 ## Running
 
 ```console
-$  moon run ./src/cmd/day01
+$ moon run ./src/cmd/day01
 === Day 01, part 1
 1086
 === Day 01, part 2
