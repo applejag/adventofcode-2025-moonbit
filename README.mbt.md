@@ -12,5 +12,5 @@ trying to use MoonBit (<https://www.moonbitlang.com/>)
 ## Running
 
 ```console
-$ moon run ./src/cmd/main
+$ moon run ./src/cmd/day01
 ```
