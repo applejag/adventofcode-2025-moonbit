@@ -1,4 +1,4 @@
 {
   "is-main": true,
-  "import": ["applejag/adventofcode2025/lib"]
+  "import": ["moonbitlang/x/fs", "moonbitlang/x/sys"]
 }
